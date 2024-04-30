@@ -1,6 +1,6 @@
 <!-- Animated Background -->
-<div style="position: fixed; z-index: -1; width: 100%; height: 100%">
-    <iframe src="https://giphy.com/embed/LOuZD1jBaS9nWz10Cq" width="100%" height="100%" style="position: fixed; pointer-events: none;"></iframe>
+<div align="center">
+    <img src="header.png" width="100%" height="100%" style="position: fixed; pointer-events: none;">
 </div>
 
 <!-- Header with Typing Animation -->
@@ -14,7 +14,7 @@
 <!-- Introduction -->
 ## Introduction
 
-I am Sanchita, an AI & ML Enthusiast currently pursuing an Executive Post Graduate Program in Machine Learning and AI. My focus lies in Generative AI, and I aspire to explore roles in AI engineering, ML engineering, and Data Science. Here's a brief overview of my journey and recent work:
+An AI & ML Enthusiast currently pursuing an Executive Post Graduate Program in Machine Learning and AI. My focus lies in Generative AI, and I aspire to explore roles in AI engineering, ML engineering, and Data Science. Here's a brief overview of my journey and recent work:
 
 ## About Me
 
@@ -34,7 +34,7 @@ I am currently immersed in an Executive Post Graduate Program in Machine Learnin
 
 - **Portfolio:** [Visit Portfolio](http://www.sanchitapatil.me/)
 - **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/sanchitapatil/)
-- **GitHub:** [View GitHub Profile](https://github.com/sanchitapatil)
+- **GitHub:** [View GitHub Profile](https://sanchitapatil.github.io/)
 - **Email:** sanchup123@gmail.com
 
 Feel free to reach out to me for collaborations or discussions!
