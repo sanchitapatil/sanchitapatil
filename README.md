@@ -20,13 +20,13 @@ An AI & ML Enthusiast currently pursuing an Executive Post Graduate Program in M
 
 I am currently immersed in an Executive Post Graduate Program in Machine Learning and AI, specializing in Generative AI. My journey is driven by a passion for understanding and implementing cutting-edge AI technologies, aiming to harness the power of Machine Learning algorithms and Generative AI to create innovative solutions and drive transformative changes. I believe in continuous learning and am committed to staying updated with the latest advancements in the field.
 
-## Recent Work
+<!-- ## Recent Work
 
 ### Analyzing Growth and Presenting Insights to the Telangana Government
 
 - **Description:** I participated in the Code Basics Platform Challenge in collaboration with the Telangana government. The mission was to boost Telangana's Progress using Data Driven Governance Registration, Transportation, and Ts-iPass datasets provided by the government.
 - **Technology Used:** Excel, Power BI
-- **Link:** [Read More](https://www.novypro.com/project/using-data-driven-governance-to-boost-telanganas-progress)
+- **Link:** [Read More](https://www.novypro.com/project/using-data-driven-governance-to-boost-telanganas-progress) -->
 
 <!-- Add more recent work as needed -->
 
